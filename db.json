@@ -1,4 +1,5 @@
-[
+{
+  "article": [
     {
       "id": 1,
       "titre": "Des bijoux fantaisie de créateurs à découvrir !",
@@ -62,4 +63,5 @@
         }
       ]
     }
-]
+  ]
+}
